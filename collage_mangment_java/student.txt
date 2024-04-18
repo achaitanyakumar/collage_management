@@ -1,0 +1,14 @@
+Name of student               :kumar
+ jeerollno                    :108
+jeepercentile                 :97.0
+tenth percentile              :10
+  address                     :hyd
+stuphonenumber                :124
+parent mobilenumber           :456
+  email                       :acv
+  school name                 :sjh
+  college name                :iiitn
+selected course               :cse
+selected specialization       :1
+eligibilty for course         :null
+eligibility for specialization:null
